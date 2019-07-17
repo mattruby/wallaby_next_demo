@@ -1,0 +1,5 @@
+; Use Bluestem NPM registry
+registry=http://artifactory.bluestembrands.com/artifactory/api/npm/npm-virtual
+_auth = ZWNvbW1lcmNlLmF1dG9tYXRpb246QVA2Qkt6ZEtteEZLOTVTMVFTRHdReldjYUVj
+always-auth = true
+email = ecommerce.automation@bluestembrands.com
